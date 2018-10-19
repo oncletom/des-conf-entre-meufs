@@ -1,6 +1,6 @@
 # La violence, c'est le rythme des autres
 
-Début juillet, Julia et moi nous sommes allées à l'édition d'été d'Agile Open France à la Ferme des Cévènnes - un forum ouvert sur trois jours.  
+Début juillet, Julia et moi nous sommes allées à l'édition d'été d'Agile Open France à la Ferme des Cévènnes - un [forum ouvert][] sur trois jours.  
 Un moment où chacun•e va suivre ses deux pieds et faire exactement ce qu'iel lui plait, proposer des activités, y participer, se reposer, se balader... Tout le programme est co-construit par les participant•es.   
 Lors de nos derniers appels, on se disait que c'était le cadre rêvé pour proposer un premier atelier ensemble, et le thème qui semblait se dégager le plus, c'était celui de la violence et du rythme.
 
@@ -42,7 +42,7 @@ Plus rapide : envies d'indépendance, d'autonomie, d'accomplissement, plaisir
 Dans cette version de l'atelier, nous avons porté notre attention sur le fait que les personnes présentes puissent toutes exprimer leur expérience du rythme et de la violence. On a privilégié cet aspect au-dessus de celui de décortiquer les expériences pour tenter d'en trouver les racines, les leviers.
 
 ### Les rythmes dissonants sont partout
-Le respect du rythme de chacun•e est une composante importante dans les pédagogies Montessori & co - aller à notre propre rythme, sans connaître d'interruptions, nous permettrait de rentrer dans un état de "flow", de concentration optimale, qui entraîne ensuite la satisfaction d'être arrivé•e au bout de notre tâche / objectif.
+Le respect du rythme de chacun•e est une composante importante dans les pédagogies Montessori & co - aller à notre propre rythme, sans connaître d'interruptions, nous permettrait de rentrer dans un état de "[flow][]", de concentration optimale, qui entraîne ensuite la satisfaction d'être arrivé•e au bout de notre tâche / objectif.
 
 Quelques questions :  
 - Quand est-ce qu'il est plus important de respecter son rythme / de s'accorder ? Comment savoir ce qui est le plus souhaitable ? Est-ce qu'il y aurait un intérêt à expliciter / verbaliser cette question ?  
@@ -65,3 +65,6 @@ Comme le dit la brillante [Mona Chollet](https://www.revue-ballast.fr/mona-choll
 
 Si vous avez des pensées, des références de livres ou d'articles, des expériences à partager, on serait très heureuses de continuer à échanger avec vous là-dessus et de continuer à affiner notre compréhension.  
 ✉️ Nos emails : julia.barbelane@gmail.com / hi@noemiegirard.co ✉️
+
+[forum ouvert]: https://fr.wikipedia.org/wiki/M%C3%A9thodologie_Forum_Ouvert
+[flow]: https://fr.wikipedia.org/wiki/Flow_(psychologie)
